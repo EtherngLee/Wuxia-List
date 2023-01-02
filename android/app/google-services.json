@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169245335143",
+    "project_id": "wuxia-list",
+    "storage_bucket": "wuxia-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169245335143:android:c464d0fd27306f5f0dfec2",
+        "android_client_info": {
+          "package_name": "com.example.wuxialist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169245335143-ajob0824emqkafdcb9oegrid3o5bke61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVSzTObrk3d6_S_M4KmvV7r0BrOgR3yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169245335143-ajob0824emqkafdcb9oegrid3o5bke61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
